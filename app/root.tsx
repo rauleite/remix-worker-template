@@ -1,3 +1,4 @@
+import '~/tracing'
 import type {
   LinksFunction,
   MetaFunction,

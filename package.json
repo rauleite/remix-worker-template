@@ -24,6 +24,9 @@
   },
   "dependencies": {
     "@cloudflare/kv-asset-handler": "^0.2.0",
+    "@opentelemetry/api": "^1.4.1",
+    "@opentelemetry/auto-instrumentations-node": "^0.36.4",
+    "@opentelemetry/sdk-node": "^0.37.0",
     "@remix-run/cloudflare-workers": "^1.15.0",
     "@remix-run/react": "^1.15.0",
     "isbot": "^3.6.5",
