@@ -1,0 +1,8 @@
+name = "template"
+main = "./dist/worker.mjs"
+# route = "example.com/*"
+compatibility_date = "2022-11-25"
+compatibility_flags = ["streams_enable_constructors"]
+
+[site]
+bucket = "./public"
